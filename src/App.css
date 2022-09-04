@@ -1,0 +1,27 @@
+nav{
+  background-color: rgb(151, 151, 255);
+}
+ul{
+  display: flex;
+  text-decoration: none;
+  list-style: none;
+}
+li{
+  padding: 10px;
+}
+body{
+  text-align: center;
+}
+.blog-page{
+  width: auto;
+  height: 65vh;
+  margin: 20px;
+  background-color: pink;
+
+}
+.tree-section{
+  width: auto;
+  height: 50vh;
+  margin: 20px;
+  background-color: rgb(174, 255, 228);
+}
